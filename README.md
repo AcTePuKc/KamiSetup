@@ -31,7 +31,6 @@
 - [ ] **Full Offline Installation Support** - Allow local package caching.
 - [ ] **More AI Framework Support** - TensorFlow, JAX, etc.
 - [ ] **Advanced Dependency Handling** - Interactive dependency selection.
-- [ ] **Replace `env_config.txt` with `settings.json`** - All environments will now be tracked inside `settings.json`.
 
 ## 🤝 Contributing
 Want to improve **KamiSetup**? Feel free to fork the repo and submit a PR!
